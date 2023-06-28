@@ -1,3 +1,5 @@
+
+
 // Voreingestellte Variablen (DON´T CHANGE!)
 const salat = 1.30
 const tomato = 1.80
