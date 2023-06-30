@@ -31,11 +31,3 @@ const unfinished = "NOCH IM AUSBAU!"
 
 let round = 1
 const choise = rl.question("Schere, Stein, Papier? ")
-
-for (; round < 2; round++) {
-
-
-
-
-  //round--
-}
